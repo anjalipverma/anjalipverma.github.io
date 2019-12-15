@@ -3,21 +3,36 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h3 id="columbia-university"><b>Columbia University</b></h3>
-<p>I served as an instructor for the following course -
+<h3 id="columbia-university"><b>University of Texas at Austin</b></h3>
+<p>Teaching Assistant -
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul>
-  <li> MA Math Camp  &middot; <em>Summer 2019</em> (<a href="https://github.com/vinayakiyer/Columbia-MA-Math-Camp-2019" target="_blank">Course Material</a>) </li>
+  <li>Introduction to Econometrics (2019)
+  <li>Microeconomic Theory* (2018, 2019)
+  <li>Microeconomic Theory for Business* (2017, 2018)
+  <li>Introduction to Macroeconomics (2017)
+  <li>Introduction to Microeconomics (2016)
+* denotes courses in which I prepared and led weekly review lectures
 </ul>
-<p>I served as a teaching assistant for the following courses -
-<!---
-<br />(<a href="" target="_blank">Course evaluations</a>)</p>
--->
-<ul>
-  <li>Microeconomic Theory (Masters) &middot; <em>Prof. Navin Kartik &middot; Spring 2019 </em></li>
-  <li>Math Method for Economists (Masters) &middot; <em>Prof. Xiaosheng Mu and Prof. Steve Olley &middot; Fall 2018, Fall 2019</em></li>
-  <li>Principles of Economics (Undergraduate) &middot; <em>Prof. Wouter Vergote &middot; Fall 2017, Spring 2018 </em></li>
 
+<h3 id="columbia-university"><b>University of Delhi</b></h3>
+<p> Ad-hoc Assistant Professor -
+<!---
+<br />(<a href="" target="_blank">Course evaluations</a>)</p>
+-->
+<ul>
+  <li>Development Economics, Undergraduate Course (2016)
+  <li>Intermediate Microeconomics, Undergraduate Course (2016)
 </ul>
+
+<p> Guest Lecturer -
+<!---
+<br />(<a href="" target="_blank">Course evaluations</a>)</p>
+-->
+<ul>
+  <li>Intermediate Microeconomics, Undergraduate Course (2015)
+</ul>
+
+
