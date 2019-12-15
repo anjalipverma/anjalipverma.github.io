@@ -13,9 +13,10 @@ tags: [jekyll]
   <li>Microeconomic Theory* (2018, 2019)
   <li>Microeconomic Theory for Business* (2017, 2018)
   <li>Introduction to Macroeconomics (2017)
-  <li>Introduction to Microeconomics (2016)<br/>  
-    * denotes courses in which I prepared and led weekly review lectures
+  <li>Introduction to Microeconomics (2016)
 </ul>
+    * denotes courses in which I prepared and led weekly review lectures
+
 
 
 <h3 id="columbia-university"><b>University of Delhi</b></h3>
@@ -25,7 +26,7 @@ tags: [jekyll]
 -->
 <ul>
   <li>Development Economics, Undergraduate Course (2016)
-  <li>Intermediate Microeconomics, Undergraduate Course (2016)<br/>
+  <li>Intermediate Microeconomics, Undergraduate Course (2016)
 </ul>
 
 <p> Guest Lecturer -
