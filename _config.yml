@@ -1,14 +1,14 @@
 # Site settings
-title: Vinayak Iyer
-description: 4th Year PhD Candidate, Department of Economics, Columbia University
-url: 'https:/vinayakiyer.github.io/'
+title: Anjali P. Verma
+description: 4th Year PhD Candidate, Department of Economics, University of Texas at Austin
+url: 'https:/anjalipverma.github.io/'
 baseurl: ""
 google_analytics: 'UA-154586808-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Vinayak Iyer'
-  email: vi2137@columbia.edu
+  name: 'Anjali P. Verma'
+  email: anjali.priya@utexas.edu
 
 defaults:
   -
