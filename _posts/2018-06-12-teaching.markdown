@@ -16,7 +16,7 @@ tags: [jekyll]
   <li>Introduction to Microeconomics (2016)<br/>  
     * denotes courses in which I prepared and led weekly review lectures
 </ul>
-</p>
+
 
 <h3 id="columbia-university"><b>University of Delhi</b></h3>
 <p> Ad-hoc Assistant Professor -
@@ -27,7 +27,7 @@ tags: [jekyll]
   <li>Development Economics, Undergraduate Course (2016)
   <li>Intermediate Microeconomics, Undergraduate Course (2016)<br/>
 </ul>
-</p>
+
 <p> Guest Lecturer -
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -35,6 +35,6 @@ tags: [jekyll]
 <ul>
   <li>Intermediate Microeconomics, Undergraduate Course (2015)
 </ul>
-</p>
+
 
 
