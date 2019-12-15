@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h3><b>University of Texas at Austin</b></h3>
-<p>Teaching Assistant -
+<p><b>Teaching Assistant</b>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -19,7 +19,7 @@ tags: [jekyll]
 * denotes courses in which I prepared and led weekly review lectures
 
 <h3><b>University of Delhi</b></h3>
-<p> Ad-hoc Assistant Professor -
+<p><b>Ad-hoc Assistant Professor</b>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -28,7 +28,7 @@ tags: [jekyll]
   <li>Intermediate Microeconomics, Undergraduate Course (2016)</li>
 </ul>
 
-<p> Guest Lecturer -
+<p><b>Guest Lecturer</b>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
