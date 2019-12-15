@@ -1,1 +1,10 @@
+---
+title:  "Contact"
+categories: [jekyll]
+tags: [jekyll]
+---
+Anjali Priya Verma
+Mailing Address: 2225 Speedway, BRB 1.116, University of Texas at Austin,  Austin, TX 78712
+Mailto: anjali(dot)priya(at)utexas(dot)edu  
+Twitter: @anjali_econ
 
