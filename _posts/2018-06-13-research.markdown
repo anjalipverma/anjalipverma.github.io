@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<p>My primary fields are Urban Economics, Applied Micro and Industrial Organization.
+<p>My primary fields are Labor Economics and Development Economics.
 </p>
 
 <!---
@@ -17,10 +17,9 @@ tags: [jekyll]
 -->
 <h3 id="working-papers">Working Papers</h3>
 <ul>
-  <h4><b>Access-to-Demand Frictions and Firm Growth : Experimental Evidence from Liberia</b>, (with Jonas Hjort and Golvine de Rochambeau)
+  <h4><b>Clean Energy Access: Gender Disparity, Health, and Labor Supply (with (<a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank"><em>Imelda</em></a>))
 <!--(<a href=".{{ site.baseurl }}/files/Paper2.pdf" target="_blank"><em>Draft</em></a>)--></h4>
-<details><summary>Abstract:</summary><p><font size="2">We hypothesize that many productive firms in poor countries stagnate due to informational barriers to accessing existing demand. To investigate, we gave a randomly chosen subset of Liberian firms the opportunity to participate in a seven day-long training program. The program exclusively teaches how to bid on contracts from large buyers that are awarded through a formal procurement process. Overall, the program increased the number of bids firms submit; the total number and quality of contracts won; and the number of contracts won through other channels than a formal bidding process. We then show via a regularization procedure that, relative to otherwise similar firms, the impact of the program is especially large for firms that use the Internet at baseline. We interpret these results through a simple theoretical framework in which a “keys-to-the-door” training program facilitates firms’ growth by boosting their ability to win contracts they bid on, and firms that face lower costs of finding and selecting appropriate contracts to bid on—for example those that use the Internet—benefit more. This interpretation is supported by the way in which the differential impact of the program for firms that use the Internet varies with the share of tenders for contracts
-published around the time of treatment that are published online. In sum this paper’s findings suggest that, to grow, firms need both knowledge of how to win contracts and the technology necessary to cost-effectively access demand.</font></p></details>
+<details><summary>Abstract:</summary><p><font size="2">Women are known to bear the largest share of health, time and labor supply burden associated with a lack of modern energy. In this paper, we study the impact of clean energy access on adult health and labor supply outcomes by exploiting a nationwide rollout of clean cooking fuel program in Indonesia. This program led to a large-scale fuel switching, from kerosene, a dirty fuel, to liquid petroleum gas, a significantly cleaner and efficient cooking fuel than kerosene. Using rich longitudinal survey data from the Indonesia Family Life Survey and the staggered structure of the program roll-out, we find that access to clean cooking led to a significant improvement in women's health, particularly among those who spend most of their time indoors doing housework. We also find an increase in the labor supplied by these women on both intensive and extensive margins, suggesting that having clean and efficient cooking fuel may not only improved women's health but also improve their productivity, subsequently allowing them to supply more market labor. For men, we find an increase in the labor supplied only along the intensive margin, with a higher increase among men in households where women accrued the largest health and labor benefits from the program. These results highlight the role of clean energy in reducing gender-disparity in health and labor participation and point to the existence of positive externality from improved health and productivity of women on other members of the household.</font></p></details>
 </ul>
 
 <!--
