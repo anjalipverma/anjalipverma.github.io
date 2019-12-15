@@ -19,7 +19,7 @@ tags: [jekyll]
 * denotes courses in which I prepared and led weekly review lectures
 
 <h3><b>University of Delhi</b></h3>
-<p><b>Ad-hoc Assistant Professor</b>
+<p><strong>Ad-hoc Assistant Professor</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -28,7 +28,7 @@ tags: [jekyll]
   <li>Intermediate Microeconomics, Undergraduate Course (2016)</li>
 </ul>
 
-<p><b>Guest Lecturer</b>
+<p><strong>Guest Lecturer</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
