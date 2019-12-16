@@ -6,7 +6,7 @@ tags: [jekyll]
 
 <p>My primary fields are Labor Economics, Development Economics, and Public Economics.
 </p>
-https://drive.google.com/open?id=1mVKS5_mou8uwW3wJOLMg9G1dAXsovVqk
+
 <!---
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
