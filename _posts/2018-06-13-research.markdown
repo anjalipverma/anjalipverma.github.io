@@ -24,7 +24,7 @@ tags: [jekyll]
 
 <h3 id="work-in-progress">Work in Progress</h3>
 <ul>
-  <h5><b>Class Rank and College Application Choices</b></h5>
+  <h5><b>Class Rank and College Application Choices - Evidence from Texas </b></h5>
   <h5><b>Impact of Schools' Financial Incentives on Students' Outcomes</b></h5>
   <h5><b>"Can Technology Mitigate the Impact of Heat and Humidity on Productivity? Experimental Evidence from India", <font size="3">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></h5>
   <!--<h5><b>Foreign Aid and Growth: A Forecast Error Approach (Joint with <a href="https://sites.google.com/view/kevinkuruc/home" target="_blank">Kevin Kuruc</a>)</b></h5>-->
