@@ -15,6 +15,7 @@ tags: [jekyll]
 <details><summary>Abstract:</summary><p><font size="2">Abstract here</details>
 </ul>
 -->
+<br/>
 <h3 id="working-papers">Working Papers</h3>
 <ul>
   <h4><b><a href="https://e-archivo.uc3m.es/bitstream/handle/10016/29397/we1919.pdf?sequence=1" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a> <font size="3">(Joint with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda</a>), R&R at The Economic Journal</font></b></h4>
@@ -24,11 +25,10 @@ tags: [jekyll]
 
 <h3 id="work-in-progress">Work in Progress</h3>
 <ul>
+  <br/>
   <h5><b>"Class Rank and College Application Choices - Evidence from Texas" </b></h5>
   <br/>
-  <br/>
   <h5><b>"Impact of Schools' Financial Incentives on Students' Outcomes"</b></h5>
-  <br/>
   <br/>
   <h5><b>"Can Technology Mitigate the Impact of Heat and Humidity on Productivity? Experimental Evidence from India", <font size="3">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></h5>
   <!--<h5><b>Foreign Aid and Growth: A Forecast Error Approach (Joint with <a href="https://sites.google.com/view/kevinkuruc/home" target="_blank">Kevin Kuruc</a>)</b></h5>-->
