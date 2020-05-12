@@ -3,7 +3,7 @@ title:  "Contact"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h4>Anjali Priya Verma</h4>
+<h3>Anjali Priya Verma</h3>
 <br/>
 <strong>Mailing Address:</strong><br/> 2225 Speedway, BRB 1.116, University of Texas at Austin, Austin, TX 78712 
 <br/><br/>
