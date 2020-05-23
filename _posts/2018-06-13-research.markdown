@@ -3,7 +3,7 @@ title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<p> My research interests are in the interaction of topics related to Labor, Gender, and Education. 
+<p> My primary research fields are <em>Labor</em> and <em>Development</em> Economics, with a special focus on issues related to Education, Gender, and Health. 
 <!---
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
