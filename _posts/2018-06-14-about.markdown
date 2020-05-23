@@ -4,6 +4,6 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 I am a 4th year PhD Candidate in the Department of Economics at University of Texas at Austin. <br/> <br/>
-My primary research fields are Labor, Development, and Public Economics. I am particularly interested in questions focusing on Education, Gender, and Health. 
+My primary research fields are Labor and Development Economics. I am particularly interested in questions focusing on Education, Gender, and Health. 
 
 Before joining UT, I completed my Masters in Economics from Delhi School of Economics, India. 
