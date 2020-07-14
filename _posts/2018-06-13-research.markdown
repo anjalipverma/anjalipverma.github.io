@@ -3,7 +3,7 @@ title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<p> My primary research fields are <b>Labor</b> and <b>Development</b> Economics, with a special focus on issues related to Education, Gender, and Health. 
+<p> My primary research fields are <b>Labor</b> Economics, with a special focus on issues related to Gender, Education, Crime, and Health. 
 <!---
 <h3 id="job-market-paper">Job Market Paper</h3>
 <ul>
@@ -20,9 +20,11 @@ tags: [jekyll]
 </ul>
 <h3 id="work-in-progress">Work in Progress</h3>
 <ul>
- <p><b><font size="3">Class Rank and College Application Choices - Evidence from Texas </font> </b></p>
+ <p><b><font size="3">Mismatches in College Quality and Student Quality - Evidence from Texas </font> </b></p>
   
  <p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>
+ 
+  <p><b><font size="3">Suspensions, Expulsions, and Student's Removal - Evidence from Alternative Education in Texas (Joint with A. Yonah Meiselman, UT Austin)</font></b></p>
   
   <p><b><font size="3">Can Technology Mitigate the Impact of Heat and Humidity on Productivity? </font><br/><font size="2">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></p> 
   <!--<h5><b>Foreign Aid and Growth: A Forecast Error Approach (Joint with <a href="https://sites.google.com/view/kevinkuruc/home" target="_blank">Kevin Kuruc</a>)</b></h5>-->
