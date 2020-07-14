@@ -22,7 +22,9 @@ tags: [jekyll]
 <ul>
  <p><b><font size="3">Mismatches in College Quality and Student Quality - A Rank-Based Perspective </font> </b></p>
   
- <p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>
+ <!--<p><b><font size="3">Impact of Alimony on Female Labor Force Participation - Evidence from Massaschusetts, US </font> </b></p>-->
+  
+<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>
  
   <p><b><font size="3">Suspensions, Expulsions, and Student's Removal - Evidence from Alternative Education in Texas </font><br/><font size="2">(Joint with A. Yonah Meiselman)</font></b></p>
   
