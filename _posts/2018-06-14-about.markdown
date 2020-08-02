@@ -3,7 +3,7 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-I am a 5th year PhD Studnet in the Department of Economics at University of Texas at Austin. <br/> <br/>
+I am a 5th year PhD Student in the Department of Economics at the University of Texas at Austin. <br/> <br/>
 My primary research fields is <b>Labor</b> Economics. I am particularly interested in questions focusing on Gender, Education, Crime, and Health. 
 
 Before joining UT, I completed my Masters in Economics from Delhi School of Economics, India. 
