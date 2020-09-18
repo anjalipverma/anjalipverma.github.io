@@ -7,7 +7,7 @@ tags: [jekyll]
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 
-<p><b><font size="3"><a href="https://e-archivo.uc3m.es/bitstream/handle/10016/29397/we1919.pdf?sequence=1" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply </a></font>
+<p><b><font size="3"><a href="https://e-archivo.uc3m.es/bitstream/handle/10016/29397/we1919.pdf?sequence=1" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply </a></font></br>
 <ul>
 <font size="3">Joint with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda</a></font>, <em><font size="3">R&R at <span style="font-weight:bold">The Economic Journal</span></font></em>
 <br/><font size="2"><strong>Coverage:</strong> <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy">GlobalDev</a></font>
