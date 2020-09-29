@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4><strong><p style="color:#0d47a1;">University of Texas at Austin</p></strong></h4>
-<p style="margin-top:-10px;"><strong>Teaching Assistant</strong>
+<p style="margin-top:-15px;"><strong>Teaching Assistant</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -18,9 +18,9 @@ tags: [jekyll]
 </ul>   
 <em>* denotes courses in which I prepared and led weekly review lectures</em>
 </p>
-<br>
-<h4><strong><p style="color:#0d47a1;">University of Delhi</p></strong></h4>
-<p style="margin-top:-10px;"><strong>Ad-hoc Assistant Professor</strong>
+
+<h4><strong><p style="margin-top:15px;" style="color:#0d47a1;">University of Delhi</p></strong></h4>
+<p style="margin-top:-15px;"><strong>Ad-hoc Assistant Professor</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
