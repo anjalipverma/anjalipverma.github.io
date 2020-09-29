@@ -18,7 +18,7 @@ tags: [jekyll]
 </ul>   
 <em>* denotes courses in which I prepared and led weekly review lectures</em>
 </p>
-<br> <br> 
+<br>
 <h4><strong><p style="color:#0d47a1;">University of Delhi</p></strong></h4>
 <p><strong>Ad-hoc Assistant Professor</strong>
 <!---
