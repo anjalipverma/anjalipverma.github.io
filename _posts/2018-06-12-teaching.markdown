@@ -3,7 +3,7 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h4><strong><p style="color:#0d47a1;">University of Texas at Austin</p></strong></h4>
+<h4><p style="color:#0d47a1;">University of Texas at Austin</p></h4>
 <p style="margin-top:-15px;"><strong>Teaching Assistant</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -19,7 +19,7 @@ tags: [jekyll]
 <em>* denotes courses in which I prepared and led weekly review lectures</em>
 </p>
 
-<h4><strong><p style="margin-top:15px;" style="color:#0d47a1;">University of Delhi</p></strong></h4>
+<h4><p style="margin-top:20px;" style="color:#0d47a1;">University of Delhi</p></h4>
 <p style="margin-top:-15px;"><strong>Ad-hoc Assistant Professor</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
