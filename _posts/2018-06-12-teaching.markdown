@@ -17,7 +17,7 @@ tags: [jekyll]
   <li>Introduction to Microeconomics (2016)</li>
 </ul>   
 * denotes courses in which I prepared and led weekly review lectures
-<br/>
+<br>
 <h4><strong>University of Delhi</strong></h4>
 <p><strong>Ad-hoc Assistant Professor</strong>
 <!---
