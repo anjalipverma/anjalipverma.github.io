@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 <body style="background-color:white;">
-<p> My primary research fields are <b>Labor, Development, and Education </b>. 
+<p> My primary research fields are <b>Labor, Development, and Education</b>. 
 
 <h4 id="working-papers"><strong>Working Papers</strong></h4>
 
