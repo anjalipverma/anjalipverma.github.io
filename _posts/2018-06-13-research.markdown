@@ -23,7 +23,7 @@ tags: [jekyll]
 <!--<p><b><font size="3">Mismatches in College Quality and Student Quality: A Rank-Based Perspective </font> </b></p>-->
   
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
-<p><b><font size="3"> Labor Supply Responses to Alimony - Evidence from Massachusetts</font></b></p>
+<p><b><font size="3"> Labor Supply Responses to Alimony</font></b></p>
 
 <p><b><font size="3">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India </font><font size="2">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></p>
 
