@@ -4,6 +4,6 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 I am a 5th year PhD Student in the Department of Economics at the University of Texas at Austin. <br/> <br/>
-My primary research fields are <strong>Labor</strong> and <strong>Education</strong>.  My research spans both developed and developing countries, and is mainly focused on questions related to women's labor supply constraints, labor productivity; determinants of educational outcomes and achievement gaps, and impact of educational policies on individuals' educational as well as labor market outcomes. 
+My primary research fields are <strong>Labor</strong>, <strong>Education</strong>, and <strong>Development</strong>.  My research spans both developed and developing countries, and is mainly focused on questions related to women's labor supply constraints, labor productivity; determinants of educational outcomes and achievement gaps, and impact of educational policies on individuals' educational as well as labor market outcomes. 
 
 Before joining UT, I was working as an Instructor at the University of Delhi, where I taught full-semster courses in <emph>Intermediate Microeconomics</emph> and <emph>Development Economics</emph> to undergraduates in Economics. 
