@@ -18,7 +18,7 @@ tags: [jekyll]
 </p>
 
 <h4><strong><p style="margin-top:20px;" style="color:#1f618d;">University of Delhi</p></strong></h4>
-<p style="margin-top:-15px;"><strong>Lecturer</strong> <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> 
+<p style="margin-top:-15px;"><strong>Lecturer</strong> </br> <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -28,7 +28,7 @@ tags: [jekyll]
   <li>Business Economics, B.Com Undergraduate Course</li>
 </ul>
 
-<p><strong>Guest Lecturer</strong>  <em> <em> (I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em>  
+<p><strong>Guest Lecturer</strong> </br> <em>(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em>  
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
