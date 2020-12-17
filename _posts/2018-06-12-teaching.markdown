@@ -9,11 +9,11 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li>Econometrics Lab </li>(Responsibility: Guiding and evaluating undergraduate research papers)
-  <li>Microeconomic Theory <em>(Prepared and led weekly review lectures)</em> </li>
-  <li>Microeconomic Theory for Business <em>(Prepared and led weekly review lectures)</em>  </li>
-  <li>Introduction to Macroeconomics </li>
-  <li>Introduction to Microeconomics </li>
+  <li>Econometrics Lab </li>  <em> (Responsibility: Guiding undergradutes to write economterics research papers + Grading)</em> 
+  <li>Microeconomic Theory</li>  <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li>Microeconomic Theory for Business </li> <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li>Introduction to Macroeconomics </li>  <em>(Responsibility: Grading)</em> 
+  <li>Introduction to Microeconomics </li> <em>(Responsibility: Prepare and lead review ectures + Grading)</em> 
 </ul>   
 </p>
 
