@@ -9,14 +9,12 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li>Introduction to Microeconomics (2020)</li>
-  <li>Econometrics Lab (2019, 2020)</li>
-  <li>Microeconomic Theory* (2018, 2019)</li>
-  <li>Microeconomic Theory for Business* (2017, 2018)</li>
-  <li>Introduction to Macroeconomics (2017)</li>
-  <li>Introduction to Microeconomics (2016)</li>
+  <li>Econometrics </li>
+  <li>Microeconomic Theory <em>(Prepared and led weekly review lectures)</em> </li>
+  <li>Microeconomic Theory for Business <em>(Prepared and led weekly review lectures)</em>  </li>
+  <li>Introduction to Macroeconomics </li>
+  <li>Introduction to Microeconomics </li>
 </ul>   
-<em>* denotes courses in which I prepared and led weekly review lectures</em>
 </p>
 
 <h4><strong><p style="margin-top:20px;" style="color:#1f618d;">University of Delhi</p></strong></h4>
