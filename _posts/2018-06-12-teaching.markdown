@@ -20,7 +20,7 @@ tags: [jekyll]
 </p>
 
 <h4><strong><p style="margin-top:20px;" style="color:#1f618d;">University of Delhi</p></strong></h4>
-<p style="margin-top:-15px;"><strong>Ad-hoc Assistant Professor</strong>
+<p style="margin-top:-15px;"><strong>Lecturer</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
