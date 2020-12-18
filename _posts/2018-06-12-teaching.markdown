@@ -3,7 +3,7 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h3><strong><p style="color:#1f618d;">University of Texas at Austin</p></strong></h3>
+<h3><strong><p>University of Texas at Austin</p></strong></h3>
 <p style="margin-top:-15px;"><strong>Teaching Assistant</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -17,7 +17,7 @@ tags: [jekyll]
 </ul>   
 </p>
 
-<h4><strong><p style="margin-top:20px;" style="color:#1f618d;">University of Delhi</p></strong></h4>
+<h3><strong><p style="margin-top:20px;">University of Delhi</p></strong></h3>
 <p style="margin-top:-15px;"><strong>Lecturer</strong> </br> <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
