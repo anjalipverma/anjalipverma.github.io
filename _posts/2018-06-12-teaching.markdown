@@ -10,11 +10,11 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#074f62;">Microeconomic Theory  <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly review lectures)</em> </li>
-  <li style="color:#074f62;">Microeconomic Theory for Business <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly review lectures)</em> </li>
-  <li style="color:#074f62;">Introduction to Econometrics </li> 
-  <li style="color:#074f62;">Introduction to Microeconomics </li> 
-  <li style="color:#074f62;">Introduction to Macroeconomics </li>  
+  <li style="color:#910000;">Microeconomic Theory  <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly review lectures)</em> </li>
+  <li style="color:#910000;">Microeconomic Theory for Business <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly review lectures)</em> </li>
+  <li style="color:#910000;">Introduction to Econometrics </li> 
+  <li style="color:#910000;">Introduction to Microeconomics </li> 
+  <li style="color:#910000;">Introduction to Macroeconomics </li>  
 </ul> 
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
@@ -25,9 +25,9 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#074f62;">Development Economics, Economics Undergraduate Course </li>
-  <li style="color:#074f62;">Intermediate Microeconomics, Economics Undergraduate Course </li>
-  <li style="color:#074f62;">Business Economics, B.Com Undergraduate Course</li>
+  <li style="color:#910000;">Development Economics, Economics Undergraduate Course </li>
+  <li style="color:#910000;">Intermediate Microeconomics, Economics Undergraduate Course </li>
+  <li style="color:#910000;">Business Economics, B.Com Undergraduate Course</li>
 </ul>
 
 <p><strong style="color:#000000;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
@@ -41,13 +41,13 @@ tags: [jekyll]
 </ul>
 
 <p><strong style="color:#000000;">Remedial Lectures  - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
- <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly informal remedial lectures for Graduate students at Delhi School of Economics)</em>  </p>
+ <em style="font-size:12px" style="color:#910000;">(Prepared and led weekly informal remedial lectures for Graduate students at Delhi School of Economics)</em>  </p>
  
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#074f62;">Introductory Mathematical Economics, Graduate Course</li>
+<listyle="color:#910000;">Introductory Mathematical Economics, Graduate Course</li>
 </ul>
 
 
