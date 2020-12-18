@@ -36,5 +36,14 @@ tags: [jekyll]
 <li>Intermediate Microeconomics, Undergraduate Course (2015)</li>
 </ul>
 
+<p><strong>Remedial Lectures </strong> </br> <em>(I prepared and led weekly informal remedial lectures for students with weaker backgrounds at Delhi School of Economics, University of Delhi.)</em>  
+<!---
+<br />(<a href="" target="_blank">Course evaluations</a>)</p>
+-->
+<ul style="margin-top:-20px;">
+<li>Introductory Mathematical Economics, Graduate Course (2015-16)</li>
+</ul>
+
+
 
 
