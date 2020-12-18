@@ -9,15 +9,15 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#000000;">Microeconomic Theory</li>  <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li style="color:#000000;">Microeconomic Theory</li>  <em style="font-size:15px">(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
   
-  <li style="color:#000000;">Microeconomic Theory for Business </li> <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li style="color:#000000;">Microeconomic Theory for Business </li> <em style="font-size:15px">(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
   
-  <li style="color:#000000;">Introduction to Microeconomics </li> <em>(Responsibility: Prepare and lead review ectures + Grading)</em> 
+  <li style="color:#000000;">Introduction to Microeconomics </li> <em style="font-size:15px">(Responsibility: Prepare and lead review ectures + Grading)</em> 
   
-  <li style="color:#000000;">Econometrics Lab </li>  <em> (Responsibility: Guiding undergradutes to write economterics research papers + Grading)</em> 
+  <li style="color:#000000;">Econometrics Lab </li>  <em style="font-size:15px"> (Responsibility: Guiding undergradutes to write economterics research papers + Grading)</em> 
   
-  <li style="color:#000000;">Introduction to Macroeconomics </li>  <em>(Responsibility: Grading)</em> 
+  <li style="color:#000000;">Introduction to Macroeconomics </li>  <em style="font-size:15px">(Responsibility: Grading)</em> 
 </ul>   
 </p>
 
