@@ -18,7 +18,7 @@ tags: [jekyll]
 </p>
 
 <h3><strong><p style="margin-top:20px;">University of Delhi</p></strong></h3>
-<p style="margin-top:-15px;" style="font-family:verdana"><strong>Lecturer</strong>  <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
+<p style="margin-top:-15px;" style="font-family:verdana" style="font-size:10px"><strong>Lecturer</strong>  <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
