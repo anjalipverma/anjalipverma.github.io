@@ -37,7 +37,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#074f62;">Intermediate Microeconomics, Undergraduate Course</li>
+<li style="color:#910000;">Intermediate Microeconomics, Undergraduate Course</li>
 </ul>
 
 <p><strong style="color:#000000;">Remedial Lectures  - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
