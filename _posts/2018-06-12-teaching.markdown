@@ -41,7 +41,7 @@ tags: [jekyll]
 </ul>
 
 <p><strong style="color:#000000;">Remedial Lectures  - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
- <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly informal remedial lectures at Delhi School of Economics)</em>  </p>
+ <em style="font-size:12px" style="color:#3d3e49;">(Prepared and led weekly informal remedial lectures for Graduate students at Delhi School of Economics)</em>  </p>
  
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
