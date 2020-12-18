@@ -19,7 +19,7 @@ tags: [jekyll]
 
 <h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>
 <p style="margin-top:-15px;"><strong>Lecturer</strong>  <br>
-<em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
+<em style="font-size:15px"> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
