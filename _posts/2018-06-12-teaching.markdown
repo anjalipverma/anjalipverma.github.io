@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <!---<h4><strong><p>University of Texas at Austin</p></strong></h4>-->
-<p style="margin-top:20px;" strong style="color:#000000;"><strong style="color:#000000;">Teaching Assistant - University of Texas at Austin (2016-Present) </strong><br>
+<p style="margin-top:20px;" strong style="color:#000000;"><strong style="color:#000000;">Teaching Assistant - University of Texas at Austin (2016-Present) </strong><br></p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -14,7 +14,7 @@ tags: [jekyll]
   <li style="color:#1a59ea;">Introduction to Microeconomics </li> 
   <li style="color:#1a59ea;">Econometrics Lab </li> 
   <li style="color:#1a59ea;">Introduction to Macroeconomics </li>  
-</ul></p>  
+</ul> 
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
 <p><strong style="color:#000000;">Lecturer - SBS College, University of Delhi  (2016) <br> </strong>
