@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <!---<h4><strong><p>University of Texas at Austin</p></strong></h4>-->
-<p style="margin-top:15px;"><strong style="color:#000000;">Teaching Assistant [University of Texas at Austin] </strong><br>
+<p style="margin-top:20px;"><strong style="color:#000000;">Teaching Assistant [University of Texas at Austin] </strong><br>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
