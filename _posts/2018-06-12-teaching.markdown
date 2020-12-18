@@ -9,16 +9,17 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li>Microeconomic Theory</li>  <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
-  <li>Microeconomic Theory for Business </li> <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
-  <li>Introduction to Microeconomics </li> <em>(Responsibility: Prepare and lead review ectures + Grading)</em> 
-  <li>Econometrics Lab </li>  <em> (Responsibility: Guiding undergradutes to write economterics research papers + Grading)</em> 
-  <li>Introduction to Macroeconomics </li>  <em>(Responsibility: Grading)</em> 
+  <li style="color:#000000;">Microeconomic Theory</li>  <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li style="color:#000000;">Microeconomic Theory for Business </li> <em>(Responsibility: Prepare and lead weekly review lectures + Grading)</em> 
+  <li style="color:#000000;">Introduction to Microeconomics </li> <em>(Responsibility: Prepare and lead review ectures + Grading)</em> 
+  <li style="color:#000000;">Econometrics Lab </li>  <em> (Responsibility: Guiding undergradutes to write economterics research papers + Grading)</em> 
+  <li style="color:#000000;">Introduction to Macroeconomics </li>  <em>(Responsibility: Grading)</em> 
 </ul>   
 </p>
 
 <h3><strong><p style="margin-top:20px;">University of Delhi</p></strong></h3>
-<p style="margin-top:-15px;" style="font-family:verdana" style="font-size:20px"><strong>Lecturer</strong>  <em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
+<p style="margin-top:-15px;"><strong>Lecturer</strong>  <br>
+<em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -28,21 +29,22 @@ tags: [jekyll]
   <li style="color:#000000;">Business Economics, B.Com Undergraduate Course</li>
 </ul>
 
-<p><strong>Guest Lecturer</strong><em>(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em>  </p> 
+<p><strong>Guest Lecturer</strong><br>
+<em>(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em>  </p> 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li>Intermediate Microeconomics, Undergraduate Course (2015)</li>
+<li style="color:#000000;">Intermediate Microeconomics, Undergraduate Course (2015)</li>
 </ul>
 
-<p><strong>Remedial Lectures </strong> 
+<p><strong>Remedial Lectures </strong> <br>
  <em>(I prepared and led weekly informal remedial lectures at Delhi School of Economics, University of Delhi.)</em>  </p>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li>Introductory Mathematical Economics, Graduate Course (2015-16)</li>
+<li style="color:#000000;">Introductory Mathematical Economics, Graduate Course (2015-16)</li>
 </ul>
 
 
