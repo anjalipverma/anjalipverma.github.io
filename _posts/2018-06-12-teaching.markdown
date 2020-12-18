@@ -12,8 +12,8 @@ tags: [jekyll]
 <ul style="margin-top:-20px;">
   <li style="color:#074f62;">Microeconomic Theory  <em style="font-size:13px">(Prepared and led weekly review lectures)</em> </li>
   <li style="color:#074f62;">Microeconomic Theory for Business <em style="font-size:13px">(Prepared and led weekly review lectures)</em>  </li>
+  <li style="color:#074f62;">Introduction to Econometrics </li> 
   <li style="color:#074f62;">Introduction to Microeconomics </li> 
-  <li style="color:#074f62;">Econometrics Lab </li> 
   <li style="color:#074f62;">Introduction to Macroeconomics </li>  
 </ul> 
 
