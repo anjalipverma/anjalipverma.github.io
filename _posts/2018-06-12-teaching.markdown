@@ -3,7 +3,7 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h3><strong><p>University of Texas at Austin</p></strong></h3>
+<h4><strong><p>University of Texas at Austin</p></strong></h4>
 <p style="margin-top:-15px;"><strong>Teaching Assistant</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -17,9 +17,10 @@ tags: [jekyll]
 </ul>   
 </p>
 
-<h3><strong><p style="margin-top:20px;">University of Delhi</p></strong></h3>
+<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>
 <p style="margin-top:-15px;"><strong>Lecturer</strong>  <br>
-<em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
+<em> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p><br>
+
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -30,7 +31,8 @@ tags: [jekyll]
 </ul>
 
 <p><strong>Guest Lecturer</strong><br>
-<em>(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em>  </p> 
+<em>(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Economics to undergraduate students at the University of Delhi.)</em> </p> <br>
+
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -39,7 +41,8 @@ tags: [jekyll]
 </ul>
 
 <p><strong>Remedial Lectures </strong> <br>
- <em>(I prepared and led weekly informal remedial lectures at Delhi School of Economics, University of Delhi.)</em>  </p>
+ <em>(I prepared and led weekly informal remedial lectures at Delhi School of Economics, University of Delhi.)</em>  </p><br>
+ 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
