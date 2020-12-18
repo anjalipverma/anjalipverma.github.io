@@ -40,8 +40,8 @@ tags: [jekyll]
 <li style="color:#910000;">Intermediate Microeconomics, Economics(Hons) Undergraduate Course</li>
 </ul>
 
-<p><strong style="color:#000000;">Remedial Lectures  - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
- <em style="font-size:1vw" style="color:#3d3e49;">(Prepared and led weekly (informal) remedial lectures for Graduate students at Delhi School of Economics)</em>  </p>
+<p><strong style="color:#000000;">Remedial Lectures - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
+<em style="font-size:1vw" style="color:#3d3e49;">(Prepared and led weekly (informal) remedial lectures for first-year graduate students at Delhi School of Economics. This was a joint initiative with two other students, and in collaboration with the Department of Economics at DSE to help students from weaker backgrounds.) </em> </p>
  
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
