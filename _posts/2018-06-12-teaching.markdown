@@ -25,9 +25,9 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#910000;">Development Economics, Economics(Hons.) Undergraduate Course </li>
-  <li style="color:#910000;">Intermediate Microeconomics, Economics(Hons.) Undergraduate Course </li>
-  <li style="color:#910000;">Business Economics, B.Com(Prog.) Undergraduate Course</li>
+  <li style="color:#910000;">Development Economics, Economics (Hons.) Undergraduate Course </li>
+  <li style="color:#910000;">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </li>
+  <li style="color:#910000;">Business Economics, B.Com (Prog.) Undergraduate Course</li>
 </ul>
 
 <p><strong style="color:#000000;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
@@ -37,7 +37,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#910000;">Intermediate Microeconomics, Economics(Hons) Undergraduate Course</li>
+<li style="color:#910000;">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</li>
 </ul>
 
 <p><strong style="color:#000000;">Remedial Lectures - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
@@ -47,7 +47,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#910000;">Introductory Mathematical Economics, Graduate(M.A.) Course</li>
+<li style="color:#910000;">Introductory Mathematical Economics, Graduate (M.A.) Course</li>
 </ul>
 
 
