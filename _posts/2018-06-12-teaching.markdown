@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4><strong><p>University of Texas at Austin</p></strong></h4>
-<p style="margin-top:-15px;"><strong style="color:#000000;">Teaching Assistant</strong>
+<p style="margin-top:-15px;"><strong style="color:#000000;">Teaching Assistant</strong> (Department of Economics, UT Austin)
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
@@ -22,8 +22,8 @@ tags: [jekyll]
 </p>
 
 <h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>
-<p style="margin-top:-15px;"><strong style="color:#000000;">Lecturer</strong>  <br>
-<em style="font-size:15px"> (I was appointed as the full-time lecturer at Shaheed Bhagat Singh College, University of Delhi. Under this role, I had to prepared and teach the following three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
+<p style="margin-top:-15px;"><strong style="color:#000000;">Lecturer</strong> (SBS College, University of Delhi) <br>
+<em style="font-size:15px"> (I was appointed as the full-time lecturer at SBS College, University of Delhi. Under this role, I had to prepared and teach the following three full-semster courses in Economics to undergraduate students at the University of Delhi.)</em> </p>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -34,8 +34,8 @@ tags: [jekyll]
   <li style="color:#000000;">Business Economics, B.Com Undergraduate Course</li>
 </ul>
 
-<p><strong style="color:#000000;">Guest Lecturer</strong><br>
-<em style="font-size:15px">(I was appointed as the Guest lecturer at Indraprastha College (I.P.), University of Delhi. Under this role, I had to prepared and teach one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</em> </p> 
+<p><strong style="color:#000000;">Guest Lecturer</strong> (IP College, University of Delhi)<br>
+<em style="font-size:15px">(I was appointed as the Guest lecturer at IP College, University of Delhi. Under this role, I had to prepared and teach one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</em> </p> 
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
@@ -44,7 +44,7 @@ tags: [jekyll]
 <li style="color:#000000;">Intermediate Microeconomics, Undergraduate Course (2015)</li>
 </ul>
 
-<p><strong style="color:#000000;">Remedial Lectures </strong> <br>
+<p><strong style="color:#000000;">Remedial Lectures </strong>(Delhi School of Economics, University of Delhi) <br>
  <em style="font-size:15px">(I prepared and led weekly informal remedial lectures at Delhi School of Economics, University of Delhi.)</em>  </p>
  
 <!---
