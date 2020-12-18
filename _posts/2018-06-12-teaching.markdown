@@ -3,7 +3,7 @@ title:  "Teaching"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h5><strong><p style="color:#1f618d;">University of Texas at Austin</p></strong></h5>
+<h3><strong><p style="color:#1f618d;">University of Texas at Austin</p></strong></h3>
 <p style="margin-top:-15px;"><strong>Teaching Assistant</strong>
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
