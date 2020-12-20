@@ -10,7 +10,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#b93318;">Microeconomic Theory  <style="font-size:1vw" style="color:#3d3e49;">(Prepared and led weekly review lectures)<> </li>
+  <li style="color:#b93318;">Microeconomic Theory  <style="font-size:1vw" style="color:#3d3e49;">(Prepared and led weekly review lectures) </li>
   <li style="color:#b93318;">Microeconomic Theory for Business <em style="font-size:1vw" style="color:#3d3e49;">(Prepared and led weekly review lectures)</em> </li>
   <li style="color:#b93318;">Introduction to Econometrics </li> 
   <li style="color:#b93318;">Introduction to Microeconomics </li> 
