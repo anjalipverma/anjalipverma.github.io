@@ -19,7 +19,7 @@ tags: [jekyll]
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
 <p><strong style="color:#000000;">Lecturer - SBS College, University of Delhi  (2016) <br> </strong>
- <font size="-1" style="color:#3d3e49;">(Appointed as full-time lecturer at SBSC College, University of Delhi. During this semester, I taught three full-courses in Economics to undergraduate students at the University of Delhi.)</font> </p>
+ <font size="-1" style="color:#000000;">(Appointed as full-time lecturer at SBSC College, University of Delhi. During this semester, I taught three full-courses in Economics to undergraduate students at the University of Delhi.)</font> </p>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
