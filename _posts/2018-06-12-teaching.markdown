@@ -31,7 +31,7 @@ tags: [jekyll]
 </ul>
 
 <p><strong style="color:#000000;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
- <font size="-1" style="color:#3d3e49;">(Appointed as Guest lecturer at IP College, University of Delhi. Under this role, I taught one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</font> </p> 
+ <font size="-1" style="color:#3d3e49;">(Appointed as guest lecturer at IP College, University of Delhi. Under this role, I taught one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</font> </p> 
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
