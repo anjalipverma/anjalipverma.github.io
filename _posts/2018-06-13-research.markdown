@@ -26,7 +26,10 @@ tags: [jekyll]
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
 <p><b><font size="3"> Labor Supply Responses to Alimony</font></b></p>
 
-<p><b><font size="3"> Mismatches in Student Quality and College Choices </font></b></p>
+<p><b><font size="3">  Peer Effects on Disruptive Behavior: Evidence from Alternative Education Programs in Texas, </font><font size="2">Joint with A. Yonah Meiselman</font></b></p>
+
+<p><b><font size="3"> Pipelines or Barricades? Juvenile Justice Education in Texas , </font><font size="2">Joint with A. Yonah Meiselman</font></b></p>
+
 
 
 
