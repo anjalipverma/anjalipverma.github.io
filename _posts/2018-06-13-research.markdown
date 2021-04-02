@@ -29,7 +29,7 @@ tags: [jekyll]
 <p><b><font size="3"  style="color:#000000;"> Disruptive Interactions: Short-run and Long-run Effects of Peers at Disciplinary Alternative Schools </font><font size="2">(Joint with A. Yonah Meiselman)</font></b></p>
 
 <p><b><font size="3"  style="color:#000000;"> Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas
-Programs </font><font size="2">(Joint with A. Yonah Meiselman)</font></b></p>
+</font><font size="2">(Joint with A. Yonah Meiselman)</font></b></p>
 
 
 
