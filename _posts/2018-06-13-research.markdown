@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 
 <body style="background-color:white;">
-<div class="block_1">Lorem</div> <div class="h_line"></div>
+
 <h4 id="working-papers"><strong><center>Working Papers</center></strong></h4>
 
 <p style="margin-top:30px;"><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank"><u>Clean Energy Access: Gender Disparity, Health, and Labor Supply</u></a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
