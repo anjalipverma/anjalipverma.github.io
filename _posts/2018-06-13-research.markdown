@@ -11,7 +11,7 @@ tags: [jekyll]
   
 <p style="margin-top:30px;"><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
   
-<font size="2" style="color:#000000;"><b>[</b> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda </a></font>]  
+<font size="2" style="color:#000000;"><b>[</b> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda </a></font>]....
 [<font size="2" style="color:#000000;"> Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > GlobalDev</a> | <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" >EnergyEcoLab Newsletter</a></font> ] </b></p>
 <ul style="margin-top:-20px;">
   
