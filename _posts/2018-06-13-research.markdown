@@ -11,7 +11,7 @@ tags: [jekyll]
   
 <p style="margin-top:30px;"><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
   
-<font size="2" style="color:#000000;"  style="font-weight:bold">[ with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda </a></font>]
+<font size="2" style="color:#000000;">[ with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda </a></font>]
 [<font size="2"> Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > GlobalDev</a> | <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" >EnergyEcoLab Newsletter</a></font> ] </b></p>
 <ul style="margin-top:-20px;">
   
@@ -21,7 +21,7 @@ tags: [jekyll]
 <h4 style="margin-top:60px;" id="work-in-progress"><strong><center> Work in Progress</center></strong></h4>
 <!--<ul>-->
 <!--<p><b><font size="3">Mismatches in College Quality and Student Quality: A Rank-Based Perspective </font> </b></p>-->
- <p><b><font size="3"  style="color:#000000;">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India </font><font size="2">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></p>
+ <p style="margin-top:30px;"<b><font size="3"  style="color:#000000;">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India </font><font size="2">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></p>
  
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
 <p><b><font size="3"  style="color:#000000;"> Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></b></p>
