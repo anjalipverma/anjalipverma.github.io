@@ -4,6 +4,6 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <p style="color:#000000;">I am a 5th year PhD Student in the Department of Economics at the University of Texas at Austin. My primary research fields are Labor, Education, and Development.  I am primarily interested in questions related to women's labor supply; impact of education policies, and determinants of achievement gaps among students.
-<br> My current work focuses on understanding the impact of exclusionary disciplinary policies in Texas.</p>
+<br> My current work focuses on understanding the impact of exclusionary disciplinary policies on short-run and long-run outcomes of students in Texas.</p>
 
 <p style="color:#000000;">Before joining UT, I was working as a Lecturer at the University of Delhi, where I taught full-semster courses in <emph>Intermediate Microeconomics</emph> and <emph>Development Economics</emph> to undergraduates in Economics. </p>
