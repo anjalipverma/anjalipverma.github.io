@@ -4,10 +4,8 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <h4>Anjali Priya Verma</h4>
-<br/>
-<strong>Mailing Address:</strong><br/> 2225 Speedway, BRB 1.116, University of Texas at Austin, Austin, TX 78712 
-<br/><br/>
-<strong>Mailto:</strong> anjali.priya@utexas.edu  ,  anjalipverma01@gmail.com
-<br/><br/>
-<strong>Twitter:</strong> @anjali_econ
+
+<strong>Mailing Address:</strong> 2225 Speedway, BRB 1.116, University of Texas at Austin, Austin, TX 78712 <br>
+<strong>Email:</strong> anjali.priya@utexas.edu  <br>
+<strong>Twitter:</strong> @anjali_econ  <br>
 
