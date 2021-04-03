@@ -3,6 +3,7 @@ title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
+h4 {text-align: center;}
 
 <body style="background-color:white;">
 <p> My primary research fields are  <strong>Labor</strong>, <strong>Education</strong>, and <strong>Development</strong>. 
