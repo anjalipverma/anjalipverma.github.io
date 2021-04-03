@@ -3,12 +3,12 @@ title:  "Research"
 categories: [jekyll]
 tags: [jekyll]
 ---
-h4 {text-align: center;}
+
 
 <body style="background-color:white;">
 <p> My primary research fields are  <strong>Labor</strong>, <strong>Education</strong>, and <strong>Development</strong>. 
 
-<h4 id="working-papers"><strong>Working Papers</strong></h4>
+<h4 text-align: center; id="working-papers"><strong>Working Papers</strong></h4>
   
 <p><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
   
