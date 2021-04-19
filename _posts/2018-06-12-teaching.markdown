@@ -30,7 +30,7 @@ tags: [jekyll]
   <li><font  color="#000000">Business Economics</font></li>
 </ul>
 
-<p><strong style="color:#cc0e0e;">Guest Lecturer</strong><font face="Arial" color="#cc0e0e"> - Indraprasth College, University of Delhi (2015)</font><br>
+<p><strong style="color:#cc0e0e;">Guest Lecturer</strong><font face="Arial" color="#cc0e0e"> - Indraprastha College, University of Delhi (2015)</font><br>
 <!-- <font size="-1" style="color:#000000;">(Appointed as guest lecturer at IP College, University of Delhi. Under this role, I taught one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</font> --> </p>
 
 <!---
