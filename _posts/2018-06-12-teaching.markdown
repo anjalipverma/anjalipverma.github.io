@@ -25,9 +25,9 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Development Economics, Economics (Hons.) Undergraduate Course</font> </li>
-  <li><font  color="#000000">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </font></li>
-  <li><font  color="#000000">Business Economics, B.Com (Prog.) Undergraduate Course</font></li>
+  <li><font  color="#000000">Development Economics</font> </li>
+  <li><font  color="#000000">Intermediate Microeconomics </font></li>
+  <li><font  color="#000000">Business Economics</font></li>
 </ul>
 
 <p><strong style="color:#cc0e0e;">Guest Lecturer</strong><font face="Arial" color="#cc0e0e"> - Indraprasth College, University of Delhi (2015)</font><br>
@@ -37,7 +37,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font  color="#000000">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</font></li>
+<li><font  color="#000000">Intermediate Microeconomics</font></li>
 </ul>
 
 <p><strong style="color:#cc0e0e;">Remedial Lectures</strong><font face="Arial" color="#cc0e0e"> - Delhi School of Economics, University of Delhi (2015-16)</font> <br>
