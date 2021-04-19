@@ -8,7 +8,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>Working Papers</center></strong></h4>
 
-<p style="margin-top:30px;"><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank"><u>Clean Energy Access: Gender Disparity, Health, and Labor Supply</u></a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
+<p style="margin-top:30px;"><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank"><u style="color:#cc0e0e;">Clean Energy Access: Gender Disparity, Health, and Labor Supply</u></a></font></strong><em><font size="3"><span style="font-weight:bold"> -- R&R at The Economic Journal </span></font></em><br>
 <font size="2" style="color:#000000;"> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank"><strong>Imelda </strong></a></font>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <strong>GlobalDev</strong></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><strong>EnergyEcoLab </strong></a></font></b></p>
 <ul style="margin-top:-20px;">
   
