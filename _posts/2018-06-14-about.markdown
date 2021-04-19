@@ -9,4 +9,4 @@ tags: [jekyll]
 
 <p style="color:#000000;">Before joining UT, I was a Lecturer at the University of Delhi, where I taught courses in <emph>Intermediate Microeconomics</emph> and <emph>Development Economics</emph> to undergraduates in Economics. </p>
 
-<p style="color:#000000;">For more information, please contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><u>anjali[dot]priya[at]utexas[dot]edu</u></a></p>
+<p style="color:#000000;">For more information, please contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank">anjali(dot)priya(at)utexas(dot)edu</a></p>
