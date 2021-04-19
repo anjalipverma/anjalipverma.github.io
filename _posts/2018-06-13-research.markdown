@@ -26,7 +26,9 @@ Paris School of Economics 2020, Paris Dauphine University 2020 , NCID 2020, Worl
 <!----Work In Progress----->
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> Work in Progress</center></strong></h4>
 
-<p style="margin-top:30px;"><b><font size="3"  style="color:#000000;"> Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></b></p>
+<p style="margin-top:30px;"><b><font size="3"  style="color:#000000;"> Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></b><br>
+<font size="2" style="color:#000000;"> Presentations: APPAM 2021 (scheduled) </font></p>
+<ul style="margin-top:-20px;"></p>
 
 <p><b><font size="3"  style="color:#000000;">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India </font><font size="2">(Joint with Anna Custers, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank">Bhavani Prathap Kasina</a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank">Deepak Saraswat</a>)</font></b></p>
  
