@@ -10,11 +10,11 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#cc0e0e;">Microeconomic Theory   <font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
-  <li style="color:#cc0e0e;">Microeconomic Theory for Business <font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
-  <li style="color:#cc0e0e;">Introduction to Econometrics </li> 
-  <li style="color:#cc0e0e;">Introduction to Microeconomics </li> 
-  <li style="color:#cc0e0e;">Introduction to Macroeconomics </li>  
+  <li><font face="Arial" color="#cc0e0e">Microeconomic Theory  </font> <font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
+  <li><font face="Arial" color="#cc0e0e">Microeconomic Theory for Business </font><font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
+  <li><font face="Arial" color="#cc0e0e">Introduction to Econometrics </font> </li> 
+  <li><font face="Arial" color="#cc0e0e">Introduction to Microeconomics</font> </li> 
+  <li><font face="Arial" color="#cc0e0e">Introduction to Macroeconomics</font> </li>  
 </ul> 
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
@@ -25,9 +25,9 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li style="color:#cc0e0e;">Development Economics, Economics (Hons.) Undergraduate Course </li>
-  <li style="color:#cc0e0e;">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </li>
-  <li style="color:#cc0e0e;">Business Economics, B.Com (Prog.) Undergraduate Course</li>
+  <li><font face="Arial" color="#cc0e0e">Development Economics, Economics (Hons.) Undergraduate Course</font> </li>
+  <li><font face="Arial" color="#cc0e0e">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </font></li>
+  <li><font face="Arial" color="#cc0e0e">Business Economics, B.Com (Prog.) Undergraduate Course</font></li>
 </ul>
 
 <p><strong style="color:#000000;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
@@ -37,7 +37,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#cc0e0e;">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</li>
+<li><font face="Arial" color="#cc0e0e">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</font></li>
 </ul>
 
 <p><strong style="color:#000000;">Remedial Lectures - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
@@ -47,7 +47,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li style="color:#cc0e0e;">Introductory Mathematical Economics, Graduate (M.A.) Course</li>
+<li><font face="Arial" color="#cc0e0e">Introductory Mathematical Economics, Graduate (M.A.) Course</font></li>
 </ul>
 
 
