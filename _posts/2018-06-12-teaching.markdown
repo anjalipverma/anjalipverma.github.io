@@ -47,7 +47,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font  color="#000000">Introductory Mathematical Economics, Graduate (M.A.) Course</font></li>
+<li><font  color="#000000">Introductory Mathematical Economics <font size="-1" style="color:#000000;">(Graduate (M.A.) Course)</font> </font></li>
 </ul>
 
 
