@@ -4,50 +4,50 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 <!---<h4><strong><p>University of Texas at Austin</p></strong></h4>-->
-<p style="margin-top:20px;"><strong style="color:#000000;">Teaching Assistant - University of Texas at Austin (2016-Present) </strong></p>
+<p style="margin-top:20px;"><strong style="color:#cc0e0e;">Teaching Assistant - University of Texas at Austin (2016-Present) </strong></p>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li><font face="Arial" color="#cc0e0e">Microeconomic Theory  </font> <font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
-  <li><font face="Arial" color="#cc0e0e">Microeconomic Theory for Business </font><font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
-  <li><font face="Arial" color="#cc0e0e">Introduction to Econometrics </font> </li> 
-  <li><font face="Arial" color="#cc0e0e">Introduction to Microeconomics</font> </li> 
-  <li><font face="Arial" color="#cc0e0e">Introduction to Macroeconomics</font> </li>  
+  <li><font face="Arial" color="#000000">Microeconomic Theory  </font> <font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
+  <li><font face="Arial" color="#000000">Microeconomic Theory for Business </font><font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
+  <li><font face="Arial" color="#000000">Introduction to Econometrics </font> </li> 
+  <li><font face="Arial" color="#000000">Introduction to Microeconomics</font> </li> 
+  <li><font face="Arial" color="#000000">Introduction to Macroeconomics</font> </li>  
 </ul> 
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
-<p><strong style="color:#000000;">Lecturer - SBS College, University of Delhi  (2016) <br> </strong>
+<p><strong style="color:#cc0e0e;">Lecturer - SBS College, University of Delhi  (2016) <br> </strong>
  <font size="-1" style="color:#000000;">(Appointed as full-time lecturer at SBSC College, University of Delhi. During this semester, I taught three full-courses in Economics to undergraduate students at the University of Delhi.)</font> </p>
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li><font face="Arial" color="#cc0e0e">Development Economics, Economics (Hons.) Undergraduate Course</font> </li>
-  <li><font face="Arial" color="#cc0e0e">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </font></li>
-  <li><font face="Arial" color="#cc0e0e">Business Economics, B.Com (Prog.) Undergraduate Course</font></li>
+  <li><font face="Arial" color="#000000">Development Economics, Economics (Hons.) Undergraduate Course</font> </li>
+  <li><font face="Arial" color="#000000">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course </font></li>
+  <li><font face="Arial" color="#000000">Business Economics, B.Com (Prog.) Undergraduate Course</font></li>
 </ul>
 
-<p><strong style="color:#000000;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
+<p><strong style="color:#cc0e0e;">Guest Lecturer - IP College, University of Delhi (2015) </strong><br>
  <font size="-1" style="color:#000000;">(Appointed as guest lecturer at IP College, University of Delhi. Under this role, I taught one full-semster course in Intermediate Economics to undergraduate students at the University of Delhi.)</font> </p> 
 
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font face="Arial" color="#cc0e0e">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</font></li>
+<li><font face="Arial" color="#000000">Intermediate Microeconomics, Economics (Hons.) Undergraduate Course</font></li>
 </ul>
 
-<p><strong style="color:#000000;">Remedial Lectures - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
+<p><strong style="color:#cc0e0e;">Remedial Lectures - Delhi School of Economics, University of Delhi (2015-16) </strong> <br>
  <font size="-1" style="color:#000000;">(Prepared and led weekly (informal) remedial lectures for first-year graduate students at Delhi School of Economics (DSE). This was a joint initiative with two other students and in collaboration with the Department of Economics at DSE, to help students from weaker backgrounds.) </font> </p>
  
 <!---
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font face="Arial" color="#cc0e0e">Introductory Mathematical Economics, Graduate (M.A.) Course</font></li>
+<li><font face="Arial" color="#000000">Introductory Mathematical Economics, Graduate (M.A.) Course</font></li>
 </ul>
 
 
