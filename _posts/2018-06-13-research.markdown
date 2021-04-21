@@ -42,9 +42,9 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, World Bank 202
 
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
 
-<p style="margin-top:30px;"><b><font size="3"  style="color:#000000;"><u>Disruptive Interactions: Long-run Effects of Peers at Disciplinary Alternative Schools</u> </font><font size="2">with A. Yonah Meiselman</font></b></p>
+<p style="margin-top:30px;"><b><font size="3"  style="color:#000000;"><u>Disruptive Interactions: Long-run Effects of Peers at Disciplinary Alternative Schools</u><br></font><font size="2">with A. Yonah Meiselman</font></b></p>
 
-<p><b><font size="3"  style="color:#000000;"><u>Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</u>
+<p><b><font size="3"  style="color:#000000;"><u>Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</u><br>
 </font><font size="2">with A. Yonah Meiselman</font></b><br>
 <font size="2" style="color:#000000;"> Presentations: APPAM 2021* (scheduled) </font></p>
 
