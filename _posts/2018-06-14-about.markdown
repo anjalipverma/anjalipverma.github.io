@@ -5,7 +5,7 @@ tags: [jekyll]
 ---
 <p><font color="#000000"> Hello! I am a 5th year PhD Student in Economics at the University of Texas at Austin.</font></p>
 
-<p style="color:#000000;">My research interests are in Labor, Education, and Development. My current work focuses on understanding the impact of exclusionary school discipline and peer-interactions at disciplinary alternative schools on short-run and long-run outcomes of students.</p>
+<p style="color:#000000;">My research interests are in Labor, Education, and Development. My current work focuses on understanding the impact of exclusionary school discipline and peer interactions at disciplinary alternative schools on short-run and long-run outcomes of students.</p>
 
 <p style="color:#000000;">Before joining UT, I was a Lecturer at the University of Delhi, where I taught courses in <emph>Intermediate Microeconomics</emph> and <emph>Development Economics</emph> to undergraduates in Economics. </p>
 
