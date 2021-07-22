@@ -3,7 +3,7 @@ title:  "About"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<p><font color="#000000"> Hello! I am a fifth-year PhD Student in Economics at the University of Texas at Austin.</font></p>
+<p><font color="#000000"> Hello! I am a PhD Candidate in Economics at the University of Texas at Austin.</font></p>
 
 <p style="color:#000000;">My research interests are in Labor, Education, and Development. My current work focuses on understanding the impact of exclusionary school discipline and peer interactions at disciplinary alternative schools on short-run and long-run outcomes of students.</p>
 
