@@ -8,7 +8,7 @@ tags: [jekyll]
   
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-<p style="margin-top:30px;"><b><font size="3"  style="color:#505050;"><span style="font-weight:bold">Student Removal, Disruptive Peers, and Long-run Outcomes: Evidence from Linked Administrative Data</span><br></font><font size="2">with A. Yonah Meiselman</font></b><br>
+<p style="margin-top:30px;"><b><font size="3"  style="color:#505050;"><span style="font-weight:bold">Student Removal, Disruptive Interactions, and Long-run Outcomes: Evidence from Linked Administrative Data</span><br></font><font size="2">with A. Yonah Meiselman</font></b><br>
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
   
   
