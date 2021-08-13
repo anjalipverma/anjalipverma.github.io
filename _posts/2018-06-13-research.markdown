@@ -5,6 +5,14 @@ tags: [jekyll]
 ---
 
 <body style="background-color:white;">
+  
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
+
+<p style="margin-top:30px;"><b><font size="3"  style="color:#505050;"><span style="font-weight:bold">Student Removal, Disruptive Peers, and Long-run Outcomes:Evidence from Linked Administrative Data</span><br></font><font size="2">with A. Yonah Meiselman</font></b><br>
+  <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
+  
+  
+  
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
@@ -41,9 +49,6 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper analyses the role of technology in reducing heat-induced labor productivity losses. For this, we use a field experiment in India which randomized the use of <em>productivity-augmenting</em> digital mode versus classic paper-and-pen mode for conducting 2000 household surveys. Combining this experimentally induced variation in survey mode with day-to-day variation in temperature, we estimate the impact of survey mode on surveyor productivity as temperature rises. We find that as temperature rises and working conditions start to deteriorate, using digital-mode results in 5 percent higher surveyor-productivity compared to paper surveys. These relative productivity gains are mainly concentrated on extremely hot days - where the adverse impact of heat is likely at its peak. We show that these impacts are not driven by differences in characteristcis of surveyor or respondents, thereby pointing to the role of technology in reducing the adverse effects of heat.</font></p></details></ul>
 
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
-
-<p style="margin-top:30px;"><b><font size="3"  style="color:#505050;"><span style="font-weight:bold">Disruptive Interactions: Long-run Impacts of Peers at Disciplinary Alternative Schools</span><br></font><font size="2">with A. Yonah Meiselman</font></b><br>
-  <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
 
 <p><b><font size="3" style="color:#505050;"><span style="font-weight:bold">Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</span><br>
 </font><font size="2">with A. Yonah Meiselman</font></b><br>
