@@ -8,7 +8,7 @@ tags: [jekyll]
   
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-<p style="margin-top:30px;"><b><font size="3"  style="color:#CC6019"><span style="font-weight:bold">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </span><br></font>
+<p style="margin-top:30px;"><b><font size="3"  style="color:#B95706"><span style="font-weight:bold">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </span><br></font>
   <font size="3" style="color:#606060;"><span style="font-weight:bold">Draft coming soon </span></font><br>
   <font size="2">with A. Yonah Meiselman</font></b><br>
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
