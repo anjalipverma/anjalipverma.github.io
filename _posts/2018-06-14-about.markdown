@@ -3,6 +3,8 @@ title:  " "
 categories: [jekyll]
 tags: [jekyll]
 ---
+
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>About Me</center></strong></h4>
 <p><font color="#000000"> Hello! I am a final year Ph.D. candidate in the Department of Economics at University of Texas at Austin. My research interest is in Labor and Development Economics, with a specific focus on Education and Female Labor Supply. My current work focuses on understanding the impact of exclusionary school discipline and peer interactions at disciplinary alternative schools on short-run and long-run outcomes of students.</p>
 
 <p style="color:#000000;">I am on the job market this year and will be available for interviews at the ASSA 2022 Virtual Annual Meeting on January 7-9, 2022.</p>
