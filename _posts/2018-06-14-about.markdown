@@ -10,6 +10,6 @@ tags: [jekyll]
 
 <p style="color:#000000;">I am on the job market this year and will be available for interviews at the ASSA 2022 Virtual Annual Meeting on January 7-9, 2022.</p>
 
-<p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Anjali_P_Verma copy.pdf"><b><font face="Arial" color="#C35900">CV </font></b></a>or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">anjali.priya@utexas.edu</font></b></a></p>
+<p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Anjali_P_Verma copy.pdf"><b><u>< font face="Arial" color="#C35900">CV </font></u></b></a>or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">anjali.priya@utexas.edu</font></b></a></p>
   
 
