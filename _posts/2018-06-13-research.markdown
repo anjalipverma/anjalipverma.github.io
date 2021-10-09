@@ -2,13 +2,13 @@
 title:  " "
 categories: [jekyll]
 tags: [jekyll]
----
+
 
 <body style="background-color:white;">
   
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
-<p style="margin-top:30px;"><b><font size="3"  style="color:#C35900"><span style="font-weight:bold">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </span><br></font>
+  <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/JMP_Abstract_Anjali_P_Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
   <font size="3" style="color:#606060;"><span style="font-weight:bold">Draft coming soon </span></font><br>
   <font size="2">with A. Yonah Meiselman</font></b><br>
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
