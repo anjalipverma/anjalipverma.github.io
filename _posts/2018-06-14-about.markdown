@@ -6,7 +6,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
-<p><font color="#000000"> Hello! I am a final year Ph.D. candidate in the Department of Economics at University of Texas at Austin.</font></p>
+<p><font color="#000000"> Hello! I am a final year Ph.D. candidate in the Department of Economics at University of Texas at Austin. I am currently on the job market. I expect to graduate in May 2022.</font></p>
   
 <p><font color="#000000"> My research interest is in Labor and Development Economics, with a specific focus on Education and Female Labor Supply. My current work focuses on understanding the role of exclusionary school discipline and peer effects at disciplinary alternative schools on short-run and long-run outcomes of students placed at these schools.</font></p>
 
