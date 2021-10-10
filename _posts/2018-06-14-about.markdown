@@ -8,7 +8,7 @@ tags: [jekyll]
 
 <p><font color="#000000"> Hello! I am a Ph.D. candidate in the Department of Economics at University of Texas at Austin. I am currently on the job market and expect to graduate in May 2022.</font></p>
   
-<p><font color="#000000"> My research interest is in Labor and Development Economics, with a specific focus on Education and Female Labor Supply. My <a href="{{ site.baseurl }}/files/JMP - Anjali P Verma - UT Austin.pdf"><b><font face="Arial" color="#C35900"> Job Market Paper </font></b></a> studies the role of disruptive peer effects at disciplinary alternative schools in Texas on subsequent disciplinary outcomes, educational attainment, and long-run labor market outcomes of students placed at these schools.</font></p>
+<p><font color="#000000"> My research interest is in Labor and Development Economics, with a specific focus on Education, Female Labor Supply, and Environment. My <a href="{{ site.baseurl }}/files/JMP - Anjali P Verma - UT Austin.pdf"><b><font face="Arial" color="#C35900"> Job Market Paper </font></b></a> studies the role of disruptive peer effects at disciplinary alternative schools in Texas on subsequent disciplinary outcomes, educational attainment, and long-run labor market outcomes of students placed at these schools.</font></p>
 
 <!--<p style="color:#000000;"> I am on the job market this year and will be available for interviews at the ASSA 2022 Virtual Annual Meeting on January 7-9, 2022.</p>-->
 
