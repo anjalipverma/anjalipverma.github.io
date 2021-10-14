@@ -10,7 +10,7 @@ tags: [jekyll]
 
   <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
   <font size="3" style="color:#606060;"><span style="font-weight:bold">Draft coming soon </span></font><br>
-    <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></font></a><br>
+  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></p>
  <ul style="margin-top:-17px;"> 
   <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Evidence suggests that exclusionary discipline such as temporary removal of students to disciplinary alternative schools, has an adverse impact on students' long-run outcomes. This paper provides one of the first pieces of evidence for a potential channel - namely, disruptive peer effects at disciplinary alternative schools, driving adverse effects among removed students. To study this, we use the restricted administrative records of all high school students in Texas public schools with a disciplinary placement between 2004 to 2018. Given that a large number of regular schools send their disruptive students to a single disciplinary alternative school, we exploit the idiosyncratic variation in peer composition within a disciplinary school to estimate the effect of peers' disruptiveness on students’ outcomes. Results show that having peers' with higher average disruptiveness when placed at a disciplinary schools leads to, 1) an increase in students' subsequent disciplinary removals, 2) decline in educational attainment -- lower high-school graduation, college enrollment, and college graduation, and 3) decline in labor market outcomes -- lower employment and earnings (~ 8% or 1272 USD decline in annual earnings at age 27). Given the lasting negative effects of peers at disciplinary schools, these results highlight the need to examine exclusionary disciplinary policies, and adopt approaches that can mitigate the adverse impact of peers on students placed at these schools.</font></p></details></ul>
@@ -55,7 +55,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
   
 <p style="margin-top:30px;"><b><font size="3" style="color:#505050;"><span style="font-weight:bold">Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</span><br>
-  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></font></a><br>
+  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
 <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021* </font></p>
   
  <ul style="margin-top:-20px;">
