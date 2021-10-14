@@ -10,15 +10,16 @@ tags: [jekyll]
   
 <p><font color="#000000"> My research interest is in Labor and Development Economics, with a specific focus on Education, Female Labor Supply, and Environment. My <a href="{{ site.baseurl }}/files/JMP - Anjali P Verma - UT Austin.pdf"><b><font face="Arial" color="#C35900"> Job Market Paper </font></b></a> studies the role of disruptive peer effects at disciplinary alternative schools in Texas on subsequent disciplinary outcomes, educational attainment, and long-run labor market outcomes of students placed at these schools. </font></p>
 
-<!--<p style="color:#000000;"> I am on the job market this year and will be available for interviews at the ASSA 2022 Virtual Annual Meeting on January 7-9, 2022.</p>-->
 
 <p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Anjali_P_Verma.pdf"><b><font face="Arial" color="#C35900">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">anjali.priya@utexas.edu</font></b></a>.</p>
 
 
-<h4 style="margin-top:30px;" id="working-papers"><b>Selected Papers:</b></h4>
-<p style="margin-top:30px;"><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900"><b>Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools</b></font></a> - <font size="2" style="color:#606060;"> with A. Yonah Meiselman </font><font style="color:#000000;"><strong>[ Job Market Paper ]</strong> </font></p>
+
+
+<h4 style="margin-top:30px;" id="working-papers"><b><font face="Arial">Selected Papers:</font></b></h4>
+<p style="margin-top:30px;"><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font face="Arial" size="3" style="color:#C35900"><b>Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools</b></font></a> - <font size="2" style="color:#606060;"> with A. Yonah Meiselman </font><font style="color:#000000;"><strong>[ Job Market Paper ]</strong> </font></p>
   
-<p style="margin-top:30px;"><a href="{{ site.baseurl }}/files/Clean Energy, Gender, and Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900"><b>Clean Energy Access: Gender Disparity, Health, and Labor Supply</b></font></a> - <font size="2" style="color:#606060;"> with Imelda</font></font>
+<p style="margin-top:30px;"><a href="{{ site.baseurl }}/files/Clean Energy, Gender, and Labor Supply.pdf" target="_blank"><font face="Arial" size="3" style="color:#C35900"><b>Clean Energy Access: Gender Disparity, Health, and Labor Supply</b></font></a> - <font size="2" style="color:#606060;"> with Imelda</font></font>
 <font size="3" style="color:#606060;"><span style="font-weight:bold"> [ Conditionally Accepted in the <font size="3" style="color:#000000;"><strong> Economic Journal</strong> ] </font></span></font></p>
   
 <p><font color="#000000"> To view my full research page, click <a href="https://anjalipverma.github.io/research/"><b><font face="Arial" color="#C35900"> here</font></b></a>.</font></p>
