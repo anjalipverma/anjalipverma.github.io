@@ -14,11 +14,11 @@ tags: [jekyll]
 <p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Anjali_P_Verma.pdf"><b><font face="Arial" color="#C35900">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">anjali.priya@utexas.edu</font></b></a>.</p>
 
 
-<h4 style="margin-top:10px;" id="working-papers"><b><font face="Arial"><u>Selected Papers:</u></font></b></h4>
+<h4 style="margin-top:20px;" id="working-papers"><b><font face="Arial"><u>Selected Papers:</u></font></b></h4>
 <p style="margin-top:10px;"><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font face="Arial" size="3" style="color:#C35900"><b>Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools</b></font></a> - <font size="2" style="color:#606060;"> with A. Yonah Meiselman </font><font style="color:#000000;">[<strong> Job Market Paper </strong>]</font></p>
   
 <p style="margin-top:-10px;"><a href="{{ site.baseurl }}/files/Clean Energy, Gender, and Labor Supply.pdf" target="_blank"><font face="Arial" size="3" style="color:#C35900"><b>Clean Energy Access: Gender Disparity, Health, and Labor Supply</b></font></a> - <font size="2" style="color:#606060;"> with Imelda</font>
-</br><font size="3" style="color:#606060;"> [ Conditionally Accepted in the</font> <font size="3" style="color:#000000;"><strong> Economic Journal</strong> ]</font></p>
+</br><font size="3" style="color:#606060;">    [ Conditionally Accepted in the</font> <font size="3" style="color:#000000;"><strong> Economic Journal</strong> ]</font></p>
   
 <p><font color="#000000"> To view my full research page, click <a href="https://anjalipverma.github.io/research/"><b><font face="Arial" color="#C35900"> here</font></b></a>.</font></p>
   
