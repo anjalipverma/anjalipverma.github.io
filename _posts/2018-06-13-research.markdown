@@ -55,7 +55,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
   
 <p style="margin-top:30px;"><b><font size="3" style="color:#505050;"><span style="font-weight:bold">Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</span><br>
-</font><font size="2">with A. Yonah Meiselman</font></b><br>
+  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></font></a><br>
 <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021* </font></p>
   
  <ul style="margin-top:-20px;">
