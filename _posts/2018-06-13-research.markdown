@@ -19,7 +19,7 @@ tags: [jekyll]
   
   
   
- <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS/ACCEPTED PAPERS</center></strong></h4>
+ <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS / ACCEPTED PAPERS</center></strong></h4>
 
 <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Clean Energy, Gender, and Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Clean Energy Access: Gender Disparity, Health, and Labor Supply</font></a></strong><br>
 <font size="3" style="color:#606060;"><span style="font-weight:bold"> Conditionally Accepted in the <font size="3" style="color:#000000;"> Economic Journal </font></span></font><br>
