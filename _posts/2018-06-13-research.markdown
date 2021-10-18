@@ -6,6 +6,8 @@ tags: [jekyll]
 
 <body style="background-color:white;">
   
+
+  
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
@@ -14,6 +16,19 @@ tags: [jekyll]
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></b></p>
  <ul style="margin-top:-17px;"> 
   <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Evidence suggests that exclusionary discipline such as temporary removal of students to disciplinary alternative schools, has an adverse impact on students' long-run outcomes. This paper provides one of the first pieces of evidence for a potential channel - namely, disruptive peer effects at disciplinary alternative schools, driving adverse effects among removed students. To study this, we use the restricted administrative records of all high school students in Texas public schools with a disciplinary placement between 2004 to 2018. Given that a large number of regular schools send their disruptive students to a single disciplinary alternative school, we exploit the idiosyncratic variation in peer composition within a disciplinary school to estimate the effect of peers' disruptiveness on students’ outcomes. Results show that having peers' with higher average disruptiveness when placed at a disciplinary schools leads to, 1) an increase in students' subsequent disciplinary removals, 2) decline in educational attainment -- lower high-school graduation, college enrollment, and college graduation, and 3) decline in labor market outcomes -- lower employment and earnings (~ 8% or 1272 USD decline in annual earnings at age 27). Given the lasting negative effects of peers at disciplinary schools, these results highlight the need to examine exclusionary disciplinary policies, and adopt approaches that can mitigate the adverse impact of peers on students placed at these schools.</font></p></details></ul>
+  
+  
+  
+ <h4 style="margin-top:30px;" id="working-papers"><strong><center>Published/Accepted Papers</center></strong></h4>
+
+<p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Clean Energy, Gender, and Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Clean Energy Access: Gender Disparity, Health, and Labor Supply</font></a></strong><br>
+<font size="3" style="color:#606060;"><span style="font-weight:bold"> Conditionally Accepted in the <font size="3" style="color:#000000;"> Economic Journal </font></span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank"><font face="Arial" color="#C35900">Imelda </font></a></font>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <font face="Arial" color="#C35900">GlobalDev</font></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><font face="Arial" color="#C35900">EnergyEcoLab </font></a></font><br>
+<font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
+Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font></b></p>
+<ul style="margin-top:-17px;">
+  
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Women bear a disproportionate share of health and time burden associated with lack of access to modern energy. In this paper, we study the impact of clean energy access on adult health and labor supply outcomes by exploiting a nationwide rollout of clean cooking fuel program in Indonesia. This program led to a large-scale fuel switching, from kerosene, a dirty fuel, to liquid petroleum gas, a cleaner one. Using longitudinal survey data from the Indonesia Family Life Survey and exploiting the staggered structure of the program rollout, we find that access to clean cooking fuel led to a significant improvement in women's health, particularly among those who spend most of their time indoors doing housework. We also find an increase in women's work hours, suggesting that access to cleaner fuel can improve women's health and plausibly their productivity, allowing them to supply more market labor. For men, we find an increase in the work hours and propensity to have an additional job, mainly in households where women accrued the largest health and labor benefits from the program. These results highlight the role of clean energy in reducing gender disparity in health and point to the existence of positive externalities from the improved health of women on other members of the household.</font></p></details></ul>
   
   
   
