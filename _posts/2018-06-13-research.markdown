@@ -72,6 +72,9 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
   
 <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">To Apply or Not to Apply: Impact of Class Rank on College Application Choices</span></font></p>
   
+ <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">In The Dark: Impact of Streetlight Outages on Crimes</span></font></p>
+  
+  
 <h4 style="margin-top:40px;" id="policy-papers"><strong><center>OTHER POLICY RESEARCH</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>
