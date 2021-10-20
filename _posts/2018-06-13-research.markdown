@@ -73,10 +73,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">To Apply or Not to Apply: Impact of Class Rank on College Application Choices</span></font></p>
   
  <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">In The Dark: Impact of Streetlight Outages on Crimes</span></font></p>
-    <font size="2" style="color:#000000;"> with <a href="https://scholar.google.com/citations?user=Ek1a88wAAAAJ&hl=en" target="_blank"><font face="Arial" color="#C35900">Alberto Chong</font></a>, <a href="https://econ.uconn.edu/person/michele-baggio/" target="_blank"><font face="Arial" color="#C35900">Michele Baggio</font></a>, <a href="https://vinayakiyer.github.io/about/" target="_blank"><font face="Arial" color="#C35900">Vinayak Iyer</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a>
-      
-      
-      Michele Baggio, Vinayak Iyer, and Nishith Prakash </font><br>
+    <font size="2" style="color:#000000;"> with <a href="https://scholar.google.com/citations?user=Ek1a88wAAAAJ&hl=en" target="_blank"><font face="Arial" color="#C35900">Alberto Chong</font></a>, <a href="https://econ.uconn.edu/person/michele-baggio/" target="_blank"><font face="Arial" color="#C35900">Michele Baggio</font></a>, <a href="https://vinayakiyer.github.io/about/" target="_blank"><font face="Arial" color="#C35900">Vinayak Iyer</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font><br>
   
   
 <h4 style="margin-top:40px;" id="policy-papers"><strong><center>OTHER POLICY RESEARCH</center></strong></h4>
