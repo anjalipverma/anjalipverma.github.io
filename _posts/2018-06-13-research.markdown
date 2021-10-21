@@ -18,7 +18,7 @@ tags: [jekyll]
   <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper estimates the long run impacts of temporary peers in a disciplinary school setting. The temporary removal of students to disciplinary schools has negative impacts on their future outcomes, this paper provides evidence that the composition of peers at these institutions plays a large role. Using  restricted administrative records of all high school students
 in Texas public schools we exploit the idiosyncratic variation in peer composition within a disciplinary
 school within a school year to estimate the effect of peers’ disruptiveness on student outcomes. We 
-show that relative to less disruptive peers, exposure to the most disruptive peers for an average of a month increases subsequent disciplinary removals (5-8%) per year, lowers high-school graduation (6%), college enrollment (7%), and college graduation (17\%) and worsens labor market outcomes – lower annual employment (2.5%) and earnings (8%) at age 23-27. These results highlight the adverse effects of exclusionary school discipline that permeates through disruptive peer effects at disciplinary schools.</font></p></details></ul>
+show that relative to less disruptive peers, exposure to the most disruptive peers for an average of a month increases subsequent disciplinary removals (5-8%) per year, lowers high-school graduation (6%), college enrollment (7%), and college graduation (17%) and worsens labor market outcomes – lower annual employment (2.5%) and earnings (8%) at age 23-27. These results highlight the adverse effects of exclusionary school discipline that permeates through disruptive peer effects at disciplinary schools.</font></p></details></ul>
   
   
   
