@@ -84,6 +84,13 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <ul style="margin-top:-20px;">
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> In this paper, we explores the role of ambient lighting in affecting crime in a neighborhood. For this, we use the data on street light outages from complaints reported to Chicago’s 311 reporting system and map it to the publicly available microdata on crimes from the Chicago Police Department. First, we show that after controlling for census block and time fixed effects, distribution of streetlight outages are as good as random. Then, using the residual idiosyncratic variation in streetlight outages, we estimate the impact on crimes in the treatment neighborhood relative to the control neighborhood with no outages. Finally, we link the streetlight outages to data on civilian-police interactions to understand the effect of ambient lighting on police behavior and use of force. </font></p></details></ul> 
 
+  
+ <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">Air Pollution, Educational Outcomes, and Long-Term Incarceration</span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a>, <a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900">Seth Neller</font></a></font></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> There is now substantial evidence that air pollution negatively impacts student outcomes. However, less is known about the mechanisms, critical periods, and potential long-term consequences of pollution exposure in later childhood and early adolescence. This project will utilize rich longitudinal administrative data from the Texas Educational Research Center on student outcomes and school characteristics, linked with later-life incarceration data to better understand the impacts of air pollution and its later-life outcomes.</font></p></details></ul> 
+
 
   
   
