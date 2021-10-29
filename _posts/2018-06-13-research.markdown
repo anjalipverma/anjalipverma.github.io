@@ -79,6 +79,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
   
 <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">To Apply or Not to Apply: Impact of Class Rank on College Application Choices</span></font></p>
   
+<ul style="margin-top:-20px;">
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> Academic assortative matching between college quality and student ability has been argued to maximizes the efficiency of human capital production. Existing literature indicate that there exists a mismatch between student and college quality that is unexplained by differences in factors such as, students’ test scores, SAT scores, demographic characteristics, parental income, financial aid, etc. This paper analyzes the impact of a student's high school class rank on their college application choices. Linking individual-level administrative records of high schools students in Texas to their college applications data, I use a fixed-effects framework similar to Murphy and Weinhardt (2020) to analyze the impact of rank on college application. Preliminary findings show that for two students with same standardized test score (a proxy for ability), having higher class rank increases the propensity of applying to better ranked colleges. This suggests that variation in class ranks among similar students can account for some of the mismatches in college and student quality. </font></p></details></ul> 
   
   
