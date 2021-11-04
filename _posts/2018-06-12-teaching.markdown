@@ -14,7 +14,7 @@ tags: [jekyll]
 <ul style="margin-top:-20px;">
   <li><font  color="#000000">Microeconomic Theory </font><a href="{{ site.baseurl }}/files/microtheory.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li>
   <li><font  color="#000000">Microeconomic Theory for Business </font><a href="{{ site.baseurl }}/files/microtheory_bs.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></li>
-  <li><font  color="#000000">Introduction to Econometrics </font><a href="{{ site.baseurl }}/files/metrics.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li> 
+  <li><font  color="#000000">Introduction to Econometrics </font><a href="{{ site.baseurl }}/files/metrics.docx" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li> 
   <li><font color="#000000">Introduction to Microeconomics </font><a href="{{ site.baseurl }}/files/intromicro.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li> 
   <li><font  color="#000000">Introduction to Macroeconomics </font><a href="{{ site.baseurl }}/files/intromacro.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li>  
 </ul> 
