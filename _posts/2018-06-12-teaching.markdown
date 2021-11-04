@@ -12,11 +12,11 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Microeconomic Theory <a href="{{ site.baseurl }}/files/microtheory.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a> </li>
-  <li><font  color="#000000">Microeconomic Theory for Business </font><font size="-1" style="color:#000000;">(Prepared and led weekly review lectures)</font> </li>
-  <li><font  color="#000000">Introduction to Econometrics </font> </li> 
-  <li><font color="#000000">Introduction to Microeconomics</font> </li> 
-  <li><font  color="#000000">Introduction to Macroeconomics</font> </li>  
+  <li><font  color="#000000">Microeconomic Theory </font><a href="{{ site.baseurl }}/files/microtheory.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a> </li>
+  <li><font  color="#000000">Microeconomic Theory for Business </font><a href="{{ site.baseurl }}/files/microtheory_bs.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a></li>
+  <li><font  color="#000000">Introduction to Econometrics </font><a href="{{ site.baseurl }}/files/metrics.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a> </li> 
+  <li><font color="#000000">Introduction to Microeconomics</font><a href="{{ site.baseurl }}/files/intromicro.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a> </li> 
+  <li><font  color="#000000">Introduction to Macroeconomics</font><a href="{{ site.baseurl }}/files/intromacro.pdf" target="_blank"><font size="-1" style="color:#C35900">(Syllabus)</font></a> </li>  
 </ul> 
 
 <!---<h4><strong><p style="margin-top:20px;">University of Delhi</p></strong></h4>-->
