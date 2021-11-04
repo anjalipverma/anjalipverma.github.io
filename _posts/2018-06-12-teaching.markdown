@@ -27,9 +27,9 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Development Economics</font> </li>
-  <li><font  color="#000000">Intermediate Microeconomics </font></li>
-  <li><font  color="#000000">Business Economics</font></li>
+  <li><font  color="#000000">Development Economics</font><a href="{{ site.baseurl }}/files/DU_development.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a> </li>
+  <li><font  color="#000000">Intermediate Microeconomics <a href="{{ site.baseurl }}/files/DU_intermediate_micro.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></font></li>
+  <li><font  color="#000000">Business Economics</font><a href="{{ site.baseurl }}/files/DU_intermediate_micro.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></li>
 </ul>
 
 <p><strong style="color:#C35900">Guest Lecturer</strong><font face="Arial" color="#C35900"> - Indraprastha College, University of Delhi (2015)</font><br>
@@ -39,7 +39,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font  color="#000000">Intermediate Microeconomics</font></li>
+<li><font  color="#000000">Intermediate Microeconomics</font><a href="{{ site.baseurl }}/files/DU_intermediate_micro.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></li>
 </ul>
 
 <p><strong style="color:#C35900">Voluntary Remedial Lectures</strong><font face="Arial" color="#C35900"> - Delhi School of Economics, University of Delhi (2015-16)</font> <br>
@@ -49,7 +49,7 @@ tags: [jekyll]
 <br />(<a href="" target="_blank">Course evaluations</a>)</p>
 -->
 <ul style="margin-top:-20px;">
-<li><font  color="#000000">Introductory Mathematical Economics <font size="-1" style="color:#000000;">(Graduate (M.A.) Course)</font> </font></li>
+<li><font  color="#000000">Introductory Mathematical Economics <font size="-1" style="color:#000000;">(Graduate (M.A.) Course)</font><a href="{{ site.baseurl }}/files/DSE_core.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></li>
 </ul>
 
 
