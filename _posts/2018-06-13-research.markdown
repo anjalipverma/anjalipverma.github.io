@@ -11,7 +11,7 @@ tags: [jekyll]
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
-  <font size="3" style="color:#606060;"><span style="font-weight:bold">Draft coming soon </span></font><br>
+  <font size="3" style="color:#606060;"><span style="font-weight:bold"> </span></font><br>
   <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
   <font size="2" style="color:#000000;"> Presentations: SEA 2021 (upcoming) </font></b></p>
  <ul style="margin-top:-17px;"> 
