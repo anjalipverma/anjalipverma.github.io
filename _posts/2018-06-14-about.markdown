@@ -4,7 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong>About</strong></h4>
 
 <p><font color="#000000">Anjali Verma is an Economist at Amazon, with research interests in Labor, Education, and Development Economics. She completed her Ph.D. in Economics from The University of Texas at Austin, where she studied various factors causing gaps in the labor market outcomes of disadvantaged groups. Before enrolling in PhD, she did her Masters in Economics from Delhi School of Economics.</font></p>
 
