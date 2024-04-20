@@ -12,7 +12,7 @@ tags: [jekyll]
   
   
   
- <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS / ACCEPTED PAPERS</center></strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS</center></strong></h4>
 
 <p style="margin-top:30px;"><b><strong><a href="https://academic.oup.com/ej/article-abstract/133/650/845/6780196?redirectedFrom=fulltext" target="_blank"><font size="3" style="color:#C35900">Clean Energy Access: Gender Disparity, Health, and Labor Supply</font></a></strong></b><br>
 <font size="3" style="color:#606060;"><span style="font-weight:bold"> <font size="3" style="color:#000000;"><b> Published, Economic Journal </b> </font></span></font><br>
@@ -20,16 +20,15 @@ tags: [jekyll]
 <font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
 Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font></b></p>
 <ul style="margin-top:-17px;">
-  
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Women bear a disproportionate share of health and time burden associated with lack of access to modern energy. In this paper, we study the impact of clean energy access on adult health and labor supply outcomes by exploiting a nationwide rollout of clean cooking fuel program in Indonesia. This program led to a large-scale fuel switching, from kerosene, a dirty fuel, to liquid petroleum gas, a cleaner one. Using longitudinal survey data from the Indonesia Family Life Survey and exploiting the staggered structure of the program rollout, we find that access to clean cooking fuel led to a significant improvement in women's health, particularly among those who spend most of their time indoors doing housework. We also find an increase in women's work hours, suggesting that access to cleaner fuel can improve women's health and plausibly their productivity, allowing them to supply more market labor. For men, we find an increase in the work hours and propensity to have an additional job, mainly in households where women accrued the largest health and labor benefits from the program. These results highlight the role of clean energy in reducing gender disparity in health and point to the existence of positive externalities from the improved health of women on other members of the household.</font></p></details></ul>
   
-  
+<p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>  
   
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong></b><br>
-  <font size="2" style="color:#606060;"><b>Revise and Resubmit, Economics of Education Review </b></font><br>
+  <font size="2" style="color:#606060;"><span style="font-weight:bold"><b> Revise and Resubmit, Economics of Education Review </b></span></font><br>
   <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
   <font size="2" style="color:#000000;"> Presentations: Northwestern University(2022), Missouri State University(2022), San Diego State University(2022), University of Nevada Las Vegas(2022), IIM Ahmedabad(2022), Ashoka University(2022), ISB Hyderabad(2022), University of Queensland (2022), SEA 2021, Delhi School of Economics CDE Seminars, ACEGD ISI 2021    </font></b></p>
  <ul style="margin-top:-17px;"> 
@@ -45,7 +44,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the labor supply response of women to changes in expected alimony. Using an alimony law change in the US that significantly reduced the post-divorce alimony support among women, I first show that this led to an increase in divorce probability. Second, consistent with the theoretical prediction from a simple model of labor supply, the reform led to an increase in the female labor force participation, with a larger increase among ever-married and more educated samples of women. As a result, the average female wage income increased after the reform. While labor supply increased, I show that most of this increase was concentrated in part-time employment, which may not be sufficient to compensate for the expected loss in alimony income. I estimate a net loss of $40,621 in PDV of lifetime income due to the reform. In light of the recent movement in the US to reform alimony laws, these findings are pertinent to understand its implications on women's labor supply and economic well-being.</font></p></details></ul>
   
 <p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Heat, Technology, and Labor Productivity.pdf" target="_blank"><font size="3" style="color:#C35900">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India</font></a></strong><br>
-<font size="3" style="color:#606060;"><span style="font-weight:bold"><b>Revise and Resubmit, Economics and Human Biology </b> </span></font><br>
+<font size="2" style="color:#606060;"><span style="font-weight:bold"><b>Revise and Resubmit, Economics and Human Biology </b> </span></font><br>
 <font size="2" style="color:#000000;">with <a href="https://blogs.worldbank.org/team/anna-custers" target="_blank"><font face="Arial" color="#C35900" size="2">Anna Custers</font></a>, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank"><font face="Arial" color="#C35900" size="2">Bhavani P. Kasina</font></a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank"><font face="Arial" color="#C35900" size="2">Deepak Saraswat</font></a></font> &ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.ideasforindia.in/topics/productivity-innovation/can-technology-mitigate-the-impact-of-heat-on-worker-productivity.html" ><font face="Arial" color="#C35900" size="2"> IGC - Ideas For India</font></a></font>
 <ul style="margin-top:-17px;">
   
@@ -101,10 +100,6 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
   
   
   
-  
-<h4 style="margin-top:40px;" id="policy-papers"><strong><center>OTHER POLICY RESEARCH</center></strong></h4>
-
-  <p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>
 
 <!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
 
