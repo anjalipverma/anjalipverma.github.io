@@ -28,7 +28,8 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
-  <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></strong></a><br><font size="3" style="color:#606060;">Revise and Resubmit, Economics of Education Review </font><br>
+  <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong></b><br>
+  <font size="3" style="color:#606060;">Revise and Resubmit, Economics of Education Review </font><br>
   <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
   <font size="2" style="color:#000000;"> Presentations: Northwestern University(2022), Missouri State University(2022), San Diego State University(2022), University of Nevada Las Vegas(2022), IIM Ahmedabad(2022), Ashoka University(2022), ISB Hyderabad(2022), University of Queensland (2022), SEA 2021, Delhi School of Economics CDE Seminars, ACEGD ISI 2021    </font></b></p>
  <ul style="margin-top:-17px;"> 
