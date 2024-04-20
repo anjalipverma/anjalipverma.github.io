@@ -20,7 +20,7 @@ tags: [jekyll]
 <font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
 Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font>
   
-<p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>  
+<p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br></p>
 
 
 
