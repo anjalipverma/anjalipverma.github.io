@@ -34,7 +34,7 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <font size="2" style="color:#000000;"> Presentations: Northwestern University(2022), Missouri State University(2022), San Diego State University(2022), University of Nevada Las Vegas(2022), IIM Ahmedabad(2022), Ashoka University(2022), ISB Hyderabad(2022), University of Queensland (2022), SEA 2021, Delhi School of Economics CDE Seminars, ACEGD ISI 2021    </font></p>
 
 
-<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Alimony and Female Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
+<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/AlimonyFemaleLaborSupply_VermaIyer2024.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
 <font size="3" style="color:#000000;"><span style="font-weight:bold"><b>R&R, Econimic Enquiry </b> </span></font><br> 
 <font size="2" style="color:#000000;"> with <a href="https://vinayakiyer.github.io/research/" target="_blank"><font face="Arial" color="#C35900">Vinayak Iyer </font></a></font><br>
 <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021 | SEA 2021 </font></p>
