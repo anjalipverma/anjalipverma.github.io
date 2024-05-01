@@ -50,7 +50,7 @@ Canada</font></a></strong><br>
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
 
 <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">From Classroom to Labor Market: The Divergent Paths of Black and White Americans</span></font><br>
-<font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a> and <font size="2" style="color:#000000;"><a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900"> Seth Neller </font></p>
+<font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a></font> and <font size="2" style="color:#000000;"><a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900"> Seth Neller </font></p>
   
 <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</span></font><br>
 <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font> | <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021* </font></p>
