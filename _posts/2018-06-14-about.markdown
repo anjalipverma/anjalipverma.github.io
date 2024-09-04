@@ -6,8 +6,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
-<p><font color="#000000">I am a Ph.D. in Economics from the Department of Economics at The University of Texas at Austin.</font></p>
-  
-<p><font color="#000000"> My research interests are in Labor Economics and Causal Inference, with a specific focus on workforce development and gender disparity in labor market outcomes. My work spans a wide range of topics within applied research such as impact of job transitions, spillover effect of minimum wage policies, role of early education outcomes on long run outcomes, as well as factors driving gender disparity in labor market outcomes.</font></p>
+<p><font color="#000000">Anjali Verma is an Economist at Amazon where she works on empirical economic research to help identify the labor and employment related challenges faced by Amazon’s domestic and global workforce, with a view to informing best policy. She earned a Ph.D. in Economics from the University of Texas at Austin, with her dissertation focusing on the interaction of Labor and Development Economics. Anjali's research spans gender and racial disparities in outcomes, school disciplinary policies and peer effects, job-to-job transitions, skills matching, and upward mobility. </font></p>
+
 
 
