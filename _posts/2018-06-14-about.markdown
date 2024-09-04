@@ -6,9 +6,9 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About</strong></h4>
 
-<p><font color="#000000">Anjali Verma is an Economist at Amazon, where she works on empirical economic research to help identify labor and employment-related challenges faced by Amazon's domestic and global workforce, with the aim of informing best practices and policies. She earned a Ph.D. in Economics from the University of Texas at Austin, with her dissertation focusing on the interaction between Labor and Development Economics. Anjali's research spans gender and racial disparities in outcomes, school disciplinary policies and peer effects, job-to-job transitions, skills matching, and upward mobility.</br>
+<p><font color="#000000">Anjali Verma is an Economist at Amazon, where she works on empirical economic research to help identify labor and employment-related challenges faced by Amazon's domestic and global workforce, with the aim of informing best practices and policies. She earned a Ph.D. in Economics from the University of Texas at Austin, with her dissertation focusing on the interaction between Labor and Development Economics. Anjali's research spans gender and racial disparities in outcomes, school disciplinary policies and peer effects, job-to-job transitions, skills matching, and upward mobility.</font></p>
 
-Previously, she was a Lecturer in Economics at Delhi University, where she taught Microeconomic Theory and Development Economics to B.A.(Hons) Economics students.</font></p>
+<p><font color="#000000">Previously, she was a Lecturer in Economics at Delhi University, where she taught Microeconomic Theory and Development Economics to B.A.(Hons) Economics students.</font></p>
 
 
 
